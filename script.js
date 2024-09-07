@@ -1,11 +1,11 @@
 // Configuración de Firebase - Copia esto de Firebase Console
 const firebaseConfig = {
-    apiKey: "TU_API_KEY",
-    authDomain: "TU_AUTH_DOMAIN",
-    projectId: "TU_PROJECT_ID",
-    storageBucket: "TU_STORAGE_BUCKET",
-    messagingSenderId: "TU_MESSAGING_SENDER_ID",
-    appId: "TU_APP_ID"
+    apiKey: "AIzaSyAxY4rIR_lzDpEy5eRKBkXy_O1RME5Bhj0",
+    authDomain: "kosmatsa-acdcc.firebaseapp.com",
+    projectId: "kosmatsa-acdcc",
+    storageBucket: "kosmatsa-acdcc.appspot.com",
+    messagingSenderId: "4199342221",
+    appId: "1:4199342221:web:f9ac601c96c5c806e702c4"
 };
 
 // Inicializa Firebase
