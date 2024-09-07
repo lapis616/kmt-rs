@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de Mensajería</title>
+    <title>Sistema de Mensajería con Firebase</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,6 +13,10 @@
         <input type="text" id="messageInput" placeholder="Escribe un mensaje...">
         <button id="sendButton">Enviar</button>
     </div>
+    <!-- Agrega el script de Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/9.1.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.1.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.1.0/firebase-firestore.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
